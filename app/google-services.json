@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217658060890",
+    "project_id": "fir-stones",
+    "storage_bucket": "fir-stones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217658060890:android:38173f03124fcff4ebe863",
+        "android_client_info": {
+          "package_name": "com.example.firebase_stones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217658060890-7b6k5ioh91httm91h638iot1lbs7neno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadWzk1K1Nq3x6Hm272l7gYMOjWE-6b9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217658060890-7b6k5ioh91httm91h638iot1lbs7neno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
